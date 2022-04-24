@@ -16,7 +16,7 @@ rand.addEventListener('click', () => {
       popa.classList.remove('active');
       pisa.classList.remove('active');
       soset.classList.remove('active');
-   }, 1000)
+   }, 4000)
 });
 
 
